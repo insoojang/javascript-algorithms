@@ -1,0 +1,36 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "해당 내용은 알고리즘을 공부하면서 정리한 글이다",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insoojang/javascript-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insoojang/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/insoojang/javascript-algorithms#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "prettier": "^2.5.1"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "useTabs": false,
+    "printWidth": 80,
+    "trailingComma": "all",
+    "semi": false,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false
+  }
+}
