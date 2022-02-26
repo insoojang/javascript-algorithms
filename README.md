@@ -13,6 +13,8 @@
 * `최솟값 구하기` [이동](src/basic/5-minimum2.js)
 * `홀수` [이동](src/basic/6-oddNumer.js)
 * `10부제` [이동](src/basic/7-10DayRotation.js)
+* `일곱난쟁이` [이동](src/basic/8-sevenDwarfs.js)
+* `A를 #으로` [이동](src/basic/9-aTo#.js)
 
 ## 1,2차원 배열 탐색
 
