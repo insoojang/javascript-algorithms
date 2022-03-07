@@ -15,6 +15,12 @@
 * `10부제` [이동](src/basic/7-10DayRotation.js)
 * `일곱난쟁이` [이동](src/basic/8-sevenDwarfs.js)
 * `A를 #으로` [이동](src/basic/9-aToOter.js)
+* `문자 찾기` [이동](src/basic/10-textSearch.js)
+* `대문자 찾기` [이동](src/basic/11-uppercaseTextSearch.js)
+* `대문자로 통일` [이동](src/basic/12-uppercase.js)
+* `대소문자 변환` [이동](src/basic/13-lowerUppercase.js)
+* `가장 긴 문자열` [이동](src/basic/14-textLength.js)
+* `가운데 문자 출력` [이동](src/basic/15-middleText.js)
 
 ## 1,2차원 배열 탐색
 
